@@ -90,4 +90,4 @@ Email: dipikaingle26@gmail.com
 LinkedIn: https://www.linkedin.com/in/dipika-ingle/
 
 ⭐ Support
-If you like this project, please ⭐ the repository!
+If you like this project, please ⭐ the Smart Electrician!
