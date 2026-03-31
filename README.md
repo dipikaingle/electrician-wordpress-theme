@@ -40,11 +40,16 @@ Ideal for:
 ---
 
 ## 📷 Screenshots
-_Add screenshots here (Homepage, Services, Contact section, Mobile view)_
-
-Example:
-![Homepage](./screenshots/homepage.png)
-![Services](./screenshots/services.png)
+- Home Page
+![Homepage](./screenshot/homepage.jpg)
+- Services Page
+![Servicespage](./screenshot/servicespage.jpg)
+- Blog Page
+![Blogpage](./screenshot/blogpage.jpg)
+- Contact Page
+!Contactpage](./screenshot/contactpage.jpg)
+- Mobile View
+!Mobileview](./screenshot/mobileview.jpg)
 
 ---
 
