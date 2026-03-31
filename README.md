@@ -47,9 +47,9 @@ Ideal for:
 - Blog Page
 ![Blogpage](./screenshot/blogpage.jpg)
 - Contact Page
-!Contactpage](./screenshot/contactpage.jpg)
+![Contactpage](./screenshot/contactpage.jpg)
 - Mobile View
-!Mobileview](./screenshot/mobileview.jpg)
+![Mobileview](./screenshot/mobileview.jpg)
 
 ---
 
